@@ -10,3 +10,5 @@
 - STM Nucleo64 G474
 - Ethernet W5500 Module
 - Adafruit SD CARD Shield
+
+Additional, this implementation uses functions from the following PR: https://github.com/Wiznet/ioLibrary_Driver/pull/148
